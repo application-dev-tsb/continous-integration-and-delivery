@@ -2,7 +2,7 @@
 My cheatlist on things that i need to know about CI/CD
 
 
-## SpringBoot Pipeline
+## SpringBoot
 - Gradle Build
 - Unit Test
 - Code Coverage (JaCoCo)
@@ -14,3 +14,7 @@ My cheatlist on things that i need to know about CI/CD
 - OWASP Vulnerability Scanning for Docker Image
 - Publish Docker Image
 - Replace Image ID (kubectl)
+
+## React Web App
+- ?? Test
+- TODO
