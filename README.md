@@ -13,3 +13,4 @@ My cheatlist on things that i need to know about CI/CD
 - Postman Test on Dockerized Image
 - OWASP Vulnerability Scanning for Docker Image
 - Publish Docker Image
+- Replace Image ID (kubectl)
